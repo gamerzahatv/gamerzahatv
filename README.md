@@ -9,13 +9,15 @@
 
 <a href="https://app.daily.dev/meownani"> <img align='right' src="https://api.daily.dev/devcards/v2/heYkw687nVAQchleO8Fli.png?r=d7k" width="350" alt="Mongkol DEV" /></a>
 
-<h2 align="Center">MYGOAL<img src="assests/flamey.gif" width="30"/></h2>
+<h2 align="center"> How it work?<img src="assests/flamey.gif" width="30"/>Why<img src="assests/flamey.gif" width="30"/>  Can it be applied?</h2>
 
 * 🐾 I’m currently learning Hardware & Software! <br> 
 Actively Going through:
   - firmware extraction
   - modified custom rom
   - keep learning  <br>
+
+* =w= Sleep Zzz <br><br>
 
 * ☕ Interest: Cats, Cheese, and Coding. <br><br>
 
@@ -65,11 +67,9 @@ Actively Going through:
 
 </div>
 
-</div> <br>
-
+</div> <br><br>
 
 [![gamerzahatv Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=gamerzahatv&custom_title=gamerzahatv's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center">
 <img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
@@ -82,5 +82,4 @@ Actively Going through:
   <a href="https://profile-summary-for-github.herokuapp.com/user/gamerzahatv" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
-
 </p> 
