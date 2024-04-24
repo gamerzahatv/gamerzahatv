@@ -53,7 +53,8 @@ Actively Going through:
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=gamerzahatv&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
-  <a href="https://github.com/gamerzahatv/logstash-pipelines" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamerzahatv&repo=logstash-pipelines&theme=gruvbox""></a> 
+  [![logstash-pipelines](https://github-readme-stats.vercel.app/api/pin/?username=gamerzahatv&repo=logstash-pipelines&theme=gruvbox)](https://github.com/gamerzahatv/logstash-pipelines)
+
 
 </div> <br>
 
