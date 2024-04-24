@@ -23,7 +23,7 @@ Actively Going through:
 
 * :octocat: Hobbies:  Anime/Manga,Game,Read. <br>
 
-<h2></h2><br>
+<h2></h2><br><br>
 
 <p align="center"> 
   <img src="assests/comwallpaper.gif" alt="comwallpaper.gif scene" /> 
