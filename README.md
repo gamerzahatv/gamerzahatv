@@ -9,7 +9,7 @@
 
 <a href="https://app.daily.dev/meownani"> <img align='right' src="https://api.daily.dev/devcards/v2/heYkw687nVAQchleO8Fli.png?r=d7k" width="350" alt="Mongkol DEV" /></a>
 
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h2 align="left"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
 * 🌳 I’m currently learning Hardware & Software! <br> 
 Actively Going through:
@@ -19,7 +19,7 @@ Actively Going through:
 
 * 🐾 2023 Goals: Contribute more to Open Source projects <br><br>
 
-* ☕ Interest: Cats, Coffee, and Coding. <br><br>
+* ☕ Interest: Cats, Cheese, and Coding. <br><br>
 
 * :octocat: Hobbies:  Anime/Manga,Game,Read. <br><br>
 
