@@ -58,17 +58,19 @@ Actively Going through:
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=gamerzahatv&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerzahatv&theme=2077">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerzahatv&theme=react">
+
+
 
   
 
 </div> <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamerzahatv&theme=zenburn)
+<div align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamerzahatv&theme=react)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamerzahatv&theme=react)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamerzahatv&theme=zenburn)
-
-
+</div>
 
 [![gamerzahatv Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=gamerzahatv&custom_title=gamerzahatv's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
