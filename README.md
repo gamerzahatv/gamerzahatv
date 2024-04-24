@@ -60,9 +60,18 @@ Actively Going through:
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerzahatv&theme=2077">
 
+  
+
 </div> <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamerzahatv&theme=zenburn)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamerzahatv&theme=zenburn)
+
+
 
 [![gamerzahatv Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=gamerzahatv&custom_title=gamerzahatv's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
 <img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
@@ -72,7 +81,7 @@ Actively Going through:
   <h3 align="center">Connect With Me!</h3>
 <p align="center">
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/gamerzahatv" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/gamerzahatv"target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
   
