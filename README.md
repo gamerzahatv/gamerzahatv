@@ -9,15 +9,13 @@
 
 <a href="https://app.daily.dev/meownani"> <img align='right' src="https://api.daily.dev/devcards/v2/heYkw687nVAQchleO8Fli.png?r=d7k" width="350" alt="Mongkol DEV" /></a>
 
-### mygoal<img src="assests/flamey.gif" width="30"/> about coding!
+<h2 align="Center">MYGOAL<img src="assests/flamey.gif" width="30"/></h2>
 
-* 🌳 I’m currently learning Hardware & Software! <br> 
+* 🐾 I’m currently learning Hardware & Software! <br> 
 Actively Going through:
   - firmware extraction
   - modified custom rom
   - keep learning  <br>
-
-* 🐾 2023 Goals: Contribute more to Open Source projects <br><br>
 
 * ☕ Interest: Cats, Cheese, and Coding. <br><br>
 
@@ -80,17 +78,9 @@ Actively Going through:
 <img src="assests/borderseperator.gif">
   <h3 align="center">Connect With Me!</h3>
 <p align="center">
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/gamerzahatv"target="_blank">
+
+  <a href="https://profile-summary-for-github.herokuapp.com/user/gamerzahatv" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
-  
-  <!-- <a href="mailto:eparksuncafe@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
-  </a> &nbsp;&nbsp; -->
 
-  <!-- <a href="https://dev.to/hyuncafe" target="_blank">
-    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
-  </a> &nbsp;&nbsp; -->
-  
 </p> 
