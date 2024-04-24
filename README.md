@@ -19,11 +19,11 @@ Actively Going through:
 
 * =w= Sleep Zzz <br><br>
 
-* ☕ Interest: Cats, Cheese, and Coding. <br><br><br>
+* ☕ Interest: Cats, Cheese, and Coding. <br><br>
 
 * :octocat: Hobbies:  Anime/Manga,Game,Read. <br>
 
-<h2></h2><br><br>
+<h2></h2><br>
 
 <p align="center"> 
   <img src="assests/comwallpaper.gif" alt="comwallpaper.gif scene" /> 
