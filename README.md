@@ -46,19 +46,10 @@ Actively Going through:
 </p>
   
 <div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> 
-  <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="75">&nbsp; 
-   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
-   <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="75">&nbsp; 
-   <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" width="75">&nbsp;
-  <br> <br>
+  <h2> <strong> My Github Stats </strong> 
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="75">&nbsp;
 
-   <p>
-    <a href="https://www.codewars.com/users/HyunCafe">
-      <img src="https://github.r2v.ch/codewars?user=HyunCafe&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
-    </a>
-  </p>
+
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=HyunCafe&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
