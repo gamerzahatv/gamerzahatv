@@ -37,10 +37,15 @@ Actively Going through:
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80">
 
   <h2> <strong> Social Media ClickME! </strong></h2>
+  <a href="https://www.instagram.com/mon_throwgame.t_t/" target="_blank"> 
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80">
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100009453533541/" target="_blank"> 
   <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80">
-    
+  </a>
+</div>
+
 <p align="center"><br>
   <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
 </p>
@@ -53,7 +58,7 @@ Actively Going through:
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=gamerzahatv&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerzahatv&theme=nord_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerzahatv&theme=2077">
 
 </div> <br>
 
@@ -64,22 +69,19 @@ Actively Going through:
 </p>
 
 <img src="assests/borderseperator.gif">
-  <h3 align="center">Connect With Me</h3>
+  <h3 align="center">Connect With Me!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
-  </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/gamerzahatv" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
   
-  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
+  <!-- <a href="mailto:eparksuncafe@gmail.com" target="_blank">
     <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;&nbsp; -->
 
-  <a href="https://dev.to/hyuncafe" target="_blank">
+  <!-- <a href="https://dev.to/hyuncafe" target="_blank">
     <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
-</a> &nbsp;&nbsp;
-  <a>
+  </a> &nbsp;&nbsp; -->
+  
 </p> 
