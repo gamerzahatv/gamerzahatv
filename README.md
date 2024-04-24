@@ -4,14 +4,12 @@
 
 <!--- Cat logo center-->
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
+    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="80">
 </p>
 
-<!-- https://api.daily.dev/devcards/v2/heYkw687nVAQchleO8Fli.png -->
-<!-- src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" -->
-<a href="https://app.daily.dev/meownani"> <img align='right' src="https://api.daily.dev/devcards/v2/heYkw687nVAQchleO8Fli.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
+<a href="https://app.daily.dev/meownani"> <img align='right' src="https://api.daily.dev/devcards/v2/heYkw687nVAQchleO8Fli.png?r=d7k" width="350" alt="Mongkol DEV" /></a>
 
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h2 align="center"> Aboutme <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
 * 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
 Actively Going through:
