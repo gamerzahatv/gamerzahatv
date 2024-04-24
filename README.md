@@ -21,7 +21,7 @@ Actively Going through:
 
 * ☕ Interest: Cats, Cheese, and Coding. <br><br><br>
 
-* :octocat: Hobbies:  Anime/Manga,Game,Read. <br><br>
+* :octocat: Hobbies:  Anime/Manga,Game,Read. <br>
 
 <h2></h2><br>
 
