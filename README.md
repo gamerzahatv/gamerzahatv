@@ -1,30 +1,17 @@
-<!-- My Readme Profile!
-I have spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
-
-**Acknowledgements**
-Awesome Readme Templates
-Awesome README
-How to write a Good readme
-
-**Authors**
-@HyunCafe
-
-**Deployment**
-Creating a README on GitHub is a simple process. Here are the steps:
-
-Click the "Create new file" button located in a new github repository (your username).
-
-In the "Name your file" field, enter "README.md" (without the quotes).
-
-Feel free to copy and paste anything you liked from my readme (Customizing it to fit your own theme and stats)
-
-Once you've added all the content, scroll to the bottom of the page and click the "Commit new file" button.
-
-Your README will now be visible on the main page of your repository! -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Mon+Nice+to+meet+you!" align="middle" alt="Hey, I'm Mon nice to meet you! animated typed out">
 <img  src="assests/borderseperator.gif">
+<br><br>
 
+- Pixel GiFs
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">  
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100">
+</div>
+<br><br>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
