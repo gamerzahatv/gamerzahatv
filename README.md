@@ -53,9 +53,8 @@ Actively Going through:
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=gamerzahatv&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
-  <a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox"></a>
-  <a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox"></a>  
-  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gamerzahatv&theme=radical">
+
 </div> <br>
 
 [![gamerzahatv Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=gamerzahatv&custom_title=gamerzahatv's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
