@@ -26,7 +26,7 @@ Actively Going through:
 <h2></h2><br>
 
 <p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
+  <img src="assests/comwallpaper.gif" alt="comwallpaper.gif scene" /> 
 </p>
 
 <div align="center">
@@ -53,7 +53,7 @@ Actively Going through:
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=gamerzahatv&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gamerzahatv&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerzahatv&theme=nord_dark">
 
 </div> <br>
 
