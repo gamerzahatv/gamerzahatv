@@ -47,13 +47,13 @@ Actively Going through:
 
 <div align="center">
   <h2> <strong> My Github Stats </strong> 
-  <br>
-  <br>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="40">&nbsp;
   <br>
-
+  <br>
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=gamerzahatv&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamerzahatv&repo=logstash-pipelines&theme=gruvbox">
 
 </div> <br>
 
