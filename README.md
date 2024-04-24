@@ -58,17 +58,14 @@ Actively Going through:
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=gamerzahatv&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerzahatv&theme=react">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerzahatv&theme=github_dark">
 
-
-
-  
 
 </div> <br>
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamerzahatv&theme=react)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamerzahatv&theme=github_dark">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamerzahatv&theme=react)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamerzahatv&theme=github_dark">
 
 </div>
 
