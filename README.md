@@ -15,7 +15,7 @@
 Actively Going through:
   - firmware extraction
   - modified custom rom
-  - keep learning  <br>
+  - keep learning  <br><br>
 
 * =w= Sleep Zzz <br><br>
 
