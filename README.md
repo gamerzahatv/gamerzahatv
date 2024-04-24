@@ -9,7 +9,7 @@
 
 <a href="https://app.daily.dev/meownani"> <img align='right' src="https://api.daily.dev/devcards/v2/heYkw687nVAQchleO8Fli.png?r=d7k" width="350" alt="Mongkol DEV" /></a>
 
-<h2 align="center"> passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="20"/>passionate<img src="assests/flamey.gif" width="20"/> about coding!</h2>
 
 * 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
 Actively Going through:
