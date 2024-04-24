@@ -41,7 +41,7 @@ Actively Going through:
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80">
   </a>
 
-  <a href="https://www.facebook.com/profile.php?id=100009453533541/" target="_blank"> 
+  <a href="https://www.facebook.com/profile.php?id=100009453533541" target="_blank"> 
   <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="80">
   </a>
 </div>
