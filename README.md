@@ -13,9 +13,6 @@
 
 * 🐾 I’m currently learning Hardware & Software! <br> 
 Actively Going through:
-  - firmware extraction
-  - modified custom rom
-  - keep learning  <br><br>
 
 * =w= Sleep Zzz <br><br>
 
